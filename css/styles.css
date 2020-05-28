@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-    padding: 70px 30px 70px 30px;
+    padding: 70px 20px 70px 20px;
     margin: 0px auto;
     background: #9575CD;
     color: floralwhite;
@@ -36,4 +36,16 @@
 
 .navbar-dark {
     background-color: #512DA8;
+}
+
+.card-block {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
